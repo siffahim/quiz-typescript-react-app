@@ -1,0 +1,118 @@
+{
+  "quiz": {
+    "title": "Science Quiz",
+    "description": "Test your knowledge in various scientific fields.",
+    "questions": [
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": [
+          "Mercury",
+          "Venus",
+          "Mars",
+          "Jupiter"
+        ],
+        "correctAnswer": "Jupiter",
+        "explanation": "Jupiter is the largest planet in our solar system, with a diameter of about 143,000 kilometers."
+      },
+      {
+        "question": "Who developed the theory of relativity?",
+        "options": [
+          "Isaac Newton",
+          "Albert Einstein",
+          "Galileo Galilei",
+          "Nikola Tesla"
+        ],
+        "correctAnswer": "Albert Einstein",
+        "explanation": "Albert Einstein developed the theory of relativity, which revolutionized our understanding of space, time, and gravity."
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+          "Go",
+          "Au",
+          "Ag",
+          "Gd"
+        ],
+        "correctAnswer": "Au",
+        "explanation": "The chemical symbol for gold is Au, derived from the Latin word 'aurum'."
+      },
+      {
+        "question": "Which gas makes up the majority of Earth's atmosphere?",
+        "options": [
+          "Oxygen",
+          "Carbon dioxide",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "correctAnswer": "Nitrogen",
+        "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, followed by oxygen at around 21%."
+      },
+      {
+        "question": "What is the primary function of the mitochondria?",
+        "options": [
+          "Protein synthesis",
+          "Cellular respiration",
+          "DNA replication",
+          "Photosynthesis"
+        ],
+        "correctAnswer": "Cellular respiration",
+        "explanation": "Mitochondria are known as the powerhouses of the cell as they produce energy through the process of cellular respiration."
+      },
+      {
+        "question": "Which scientist proposed the laws of motion?",
+        "options": [
+          "Isaac Newton",
+          "Albert Einstein",
+          "Galileo Galilei",
+          "Charles Darwin"
+        ],
+        "correctAnswer": "Isaac Newton",
+        "explanation": "Isaac Newton proposed the laws of motion, which describe the relationship between an object's motion and the forces acting upon it."
+      },
+      {
+        "question": "What is the chemical formula for water?",
+        "options": [
+          "H2O",
+          "CO2",
+          "NaCl",
+          "C6H12O6"
+        ],
+        "correctAnswer": "H2O",
+        "explanation": "The chemical formula for water is H2O, representing two hydrogen atoms bonded to one oxygen atom."
+      },
+      {
+        "question": "What is the closest star to Earth?",
+        "options": [
+          "Proxima Centauri",
+          "Sirius",
+          "Alpha Centauri",
+          "Betelgeuse"
+        ],
+        "correctAnswer": "Proxima Centauri",
+        "explanation": "Proxima Centauri is the closest star to Earth, located about 4.24 light-years away in the Alpha Centauri system."
+      },
+      {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "options": [
+          "Mercury",
+          "Venus",
+          "Mars",
+          "Saturn"
+        ],
+        "correctAnswer": "Mars",
+        "explanation": "Mars is often called the 'Red Planet' due to its reddish appearance, caused by iron oxide (rust) on its surface."
+      },
+      {
+        "question": "What is the unit of electric current?",
+        "options": [
+          "Volt",
+          "Ampere",
+          "Watt",
+          "Ohm"
+        ],
+        "correctAnswer": "Ampere",
+        "explanation": "The unit of electric current is Ampere, named after the French physicist André-Marie Ampère."
+      }
+    ]
+  }
+}
